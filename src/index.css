@@ -1,0 +1,14 @@
+.wip {
+  background-color: #0bceaf;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 1px;
+  font-weight: unset!important;
+  padding: 5px 15px!important;
+  border-radius: 20px;
+}
+
+.wip:hover {
+  font-weight: bold!important;
+  font-size: 18px!important;
+}
